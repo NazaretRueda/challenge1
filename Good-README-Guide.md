@@ -45,12 +45,16 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+/* https://www.w3schools.com/tags/tag_meta.asp
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+Define keywords for search engines:
+<meta name="keywords" content="HTML, CSS, JavaScript">
 
-If you followed tutorials, include links to those here as well.
+Define a description of your web page:
+<meta name="description" content="Free Web tutorials for HTML and CSS">
 
+Setting the viewport to make your website look good on all devices:
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 ## License
 
