@@ -56,6 +56,13 @@ Define a description of your web page:
 Setting the viewport to make your website look good on all devices:
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+https://www.semrush.com/blog/semantic-html5-guide/
+
+
+
+
 ## License
 
 The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
