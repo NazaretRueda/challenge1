@@ -17,7 +17,7 @@ The following improvements have been made in order to accomplish the desired out
 - Alt attribute added to replace non-displayed images with text
 
 ## Usage 
-[image](https://github.com/NazaretRueda/challenge1/tree/main/starter/assets#:~:text=reputation%2Dmanagement.jpg-,screenshotHoriseon,-.png)
+(https://github.com/NazaretRueda/challenge1/tree/main/starter/assets#:~:text=reputation%2Dmanagement.jpg-,screenshotHoriseon,-.png)
 
 ## Credits
 
