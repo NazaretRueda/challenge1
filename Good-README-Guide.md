@@ -63,6 +63,11 @@ https://www.semrush.com/blog/semantic-html5-guide/
 
 
 
+
+https://www.w3schools.com/tags/att_img_alt.asp
+
+The alt attribute provides alternative information for an image if a user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
+
 ## License
 
 The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use [https://choosealicense.com/](https://choosealicense.com/)
