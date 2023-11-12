@@ -17,7 +17,7 @@ The following improvements have been made in order to accomplish the desired out
 - Alt attribute added to replace non-displayed images with text
 
 ## Usage 
-starter/assets/images/screenshotHoriseon.png
+![screenshotHoriseon.png]starter/assets/images/screenshotHoriseon.png)
 
 ## Credits
 
