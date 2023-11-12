@@ -25,31 +25,13 @@ https://nazaretrueda.github.io/challenge1/starter/index.html
 
 https://www.w3schools.com/tags/tag_meta.asp
 
-Define keywords for search engines:
-<meta name="keywords" content="HTML, CSS, JavaScript">
-
-Define a description of your web page:
-<meta name="description" content="Free Web tutorials for HTML and CSS">
-
-Setting the viewport to make your website look good on all devices:
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
 https://www.semrush.com/blog/semantic-html5-guide/
 
 https://www.w3schools.com/tags/att_img_alt.asp
 
-The alt attribute provides alternative information for an image if a user for some reason cannot view it (because of slow connection, an error in the src attribute, or if the user uses a screen reader).
-
 https://www.w3schools.com/css/css_comments.asp
-
-CSS Comments
-Comments are used to explain the code, and may help when you edit the source code at a later date.
-Comments are ignored by browsers.
-A CSS comment is placed inside the <style> element, and starts with /* and ends with */:
-
-Could be possible to add comments to your HTML source by using the <!--...--> syntax 
 
 
 ## License
