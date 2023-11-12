@@ -19,6 +19,8 @@ The following improvements have been made in order to accomplish the desired out
 ## Usage 
 ![screenshotHoriseon.png](starter/assets/images/screenshotHoriseon.png)
 
+https://nazaretrueda.github.io/challenge1/starter/index.html
+
 ## Credits
 
 https://www.w3schools.com/tags/tag_meta.asp
